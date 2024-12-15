@@ -1,0 +1,106 @@
+[15Dec2024 21:54:47.681] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[15Dec2024 21:54:47.686] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[15Dec2024 21:54:47.893] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SelvelMiwu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[15Dec2024 21:54:48.278] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SelvelMiwu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[15Dec2024 21:54:48.280] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SelvelMiwu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[15Dec2024 21:54:48.284] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SelvelMiwu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[15Dec2024 21:54:48.286] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SelvelMiwu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[15Dec2024 21:54:48.439] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[15Dec2024 21:54:50.871] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[15Dec2024 21:54:58.843] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[15Dec2024 21:55:02.122] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[15Dec2024 21:55:02.132] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[15Dec2024 21:55:03.049] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.npc.Villager from class com.solegendary.reignofnether.unit.units.villagers.VillagerUnit
+[15Dec2024 21:55:03.050] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.npc.Villager from class com.solegendary.reignofnether.unit.units.villagers.MilitiaUnit
+[15Dec2024 21:55:03.051] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.solegendary.reignofnether.unit.units.monsters.ZombieUnit from class com.solegendary.reignofnether.unit.units.monsters.EndermanUnit
+[15Dec2024 21:55:03.119] [modloading-worker-0/INFO] [com.solegendary.reignofnether.ReignOfNether/RESETPACKET]: Registering forge reset packet.
+[15Dec2024 21:55:03.121] [modloading-worker-0/INFO] [com.solegendary.reignofnether.ReignOfNether/RESETPACKET]: Registered forge reset packet successfully.
+[15Dec2024 21:55:03.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Dec2024 21:55:04.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.6
+[15Dec2024 21:55:06.013] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Dec2024 21:55:07.641] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/SelvelMiwu/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[15Dec2024 21:55:07.642] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/SelvelMiwu/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[15Dec2024 21:55:14.255] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[15Dec2024 21:55:15.033] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1179 advancements
+[15Dec2024 21:55:16.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[15Dec2024 21:55:16.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Dec2024 21:55:16.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Dec2024 21:55:16.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Dec2024 21:55:16.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Dec2024 21:55:16.253] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Dec2024 21:55:16.425] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Dec2024 21:55:16.425] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Dec2024 21:55:16.426] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Dec2024 21:55:16.426] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Dec2024 21:55:16.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Dec2024 21:55:34.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Dec2024 21:55:41.171] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.177] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.180] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.183] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.187] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.189] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.191] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.191] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.193] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.196] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.397] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:41.760] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:42.261] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Dec2024 21:55:42.889] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[15Dec2024 21:55:43.266] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[15Dec2024 21:55:43.623] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9363 ms
+[15Dec2024 21:55:43.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.190s)! For help, type "help"
+[15Dec2024 21:55:43.645] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Dec2024 21:55:43.667] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.load
+[15Dec2024 21:55:43.669] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Loaded 0 units in serverevents
+[15Dec2024 21:55:43.670] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: TargetResourcesSaveData.load
+[15Dec2024 21:55:43.671] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Loaded 0 gatherTargets in serverevents
+[15Dec2024 21:55:43.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.load
+[15Dec2024 21:55:43.676] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: NetherZoneSaveData.load
+[15Dec2024 21:55:43.679] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.load
+[15Dec2024 21:55:43.680] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved 0 resources in serverevents
+[15Dec2024 21:55:43.682] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: loaded 0 researchItems in serverevents
+[15Dec2024 21:55:43.684] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: loaded survival data: isEnabled: false
+[15Dec2024 21:55:43.685] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: loaded survival data: nextWave: 1
+[15Dec2024 21:55:43.685] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: loaded survival data: difficulty: null
+[15Dec2024 21:56:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 21:56:43.641] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 21:56:43.642] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 21:56:43.643] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 21:57:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 21:57:43.640] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 21:57:43.640] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 21:57:43.642] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 21:58:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 21:58:43.640] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 21:58:43.641] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 21:58:43.643] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 21:59:43.638] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 21:59:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 21:59:43.640] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 21:59:43.642] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 22:00:43.890] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 22:00:43.892] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 22:00:43.892] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 22:00:43.894] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 22:01:43.638] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 22:01:43.640] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 22:01:43.640] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 22:01:43.642] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 22:02:43.638] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 22:02:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 22:02:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 22:02:43.640] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 22:03:43.638] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 22:03:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 22:03:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 22:03:43.640] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 22:04:43.638] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 22:04:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 22:04:43.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 22:04:43.640] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
